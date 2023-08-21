@@ -1,1 +1,7 @@
 /*  your css code here. If applicable */
+ol>li::first-letter{
+	font-size: 2em;
+}
+ul>li::first-letter{
+	font-size: 2em;
+}
